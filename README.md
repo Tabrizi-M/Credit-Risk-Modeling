@@ -1,13 +1,11 @@
 # Credit-Risk-Modeling
 
-<img width="709" alt="smote_alg" src="https://github.com/user-attachments/assets/a0382d32-ccf3-428e-9dc5-008552474d1d" />
 
-##page 1
-![presentation_Page_01](https://github.com/user-attachments/assets/ad443d8a-4d66-4822-b0a4-6ce8c721c6a4)
-
-###page 2
-![presentation_Page_02](https://github.com/user-attachments/assets/8a64afa9-bdc2-412c-8fe7-ee36e3d115c2)
-![presentation_Page_14](https://github.com/user-attachments/assets/910bb992-cde4-4a38-94b8-ea1b5a238a1f)
-
-#page 3
-![image](https://github.com/user-attachments/assets/3c1b6136-0469-4aa0-8c95-4cc3abebbbab)
+![credit - v3_Page_01](https://github.com/user-attachments/assets/0be2368c-453d-45dd-ae69-163c5d07a4b0)
+![credit - v3_Page_02](https://github.com/user-attachments/assets/8c87f6be-cb68-4999-b1e1-b09110ca621f)
+![credit - v3_Page_03](https://github.com/user-attachments/assets/472d3c18-be5e-43d0-a661-d8e8781ce513)
+![credit - v3_Page_04](https://github.com/user-attachments/assets/71e8fac2-7f33-4b04-8165-4028406839d2)
+![credit - v3_Page_05](https://github.com/user-attachments/assets/d28051e9-937c-410f-9261-c0ff284d39fc)
+![credit - v3_Page_06](https://github.com/user-attachments/assets/8b585c04-73be-4afb-bab2-5e1b0ffb7698)
+![credit - v3_Page_07](https://github.com/user-attachments/assets/554810fc-81ef-4d1c-8247-d948004e8dab)
+![credit - v3_Page_08](https://github.com/user-attachments/assets/23ceffb1-6f58-47ef-bffa-1daad8109d0f)
